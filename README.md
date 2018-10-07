@@ -5,3 +5,6 @@ In this application you will find on the main view the different types of Genre 
 
 These are the screens you will find when running the app on an iOS Device.
 
+Genres                     |  Movies
+:-------------------------:|:-------------------------:
+![main](https://github.com/syllerim/TMDb-React-Native/blob/master/src/resources/all_genres.png) | ![detail](https://github.com/syllerim/TMDb-React-Native/blob/master/src/resources/all_movies.png)
