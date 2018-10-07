@@ -14,3 +14,13 @@ Movie Details              |  Add Movie
 :-------------------------:|:-------------------------:
 ![main](https://github.com/syllerim/TMDb-React-Native/blob/master/src/resources/movie_detail.png) | ![detail](https://github.com/syllerim/TMDb-React-Native/blob/master/src/resources/add_movie.png)
 
+## Main Development Topics ✨
+
+- React-Native
+- iOS
+- Android
+- Redux
+
+## Installation 📝
+
+- ![Install React-Native](https://facebook.github.io/react-native/docs/getting-started)
