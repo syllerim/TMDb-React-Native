@@ -21,6 +21,19 @@ Movie Details              |  Add Movie
 - Android
 - Redux
 
-## Installation 📝
+## Installation Notes 📝
 
-- ![Install React-Native](https://facebook.github.io/react-native/docs/getting-started)
+- [Install React-Native](https://facebook.github.io/react-native/docs/getting-started)
+- Navigate to the path of the project on terminal and run
+
+```
+npm start
+```
+
+- On another tab in your terminal run 
+
+``` 
+ react-native run-ios
+🤖 react-native run-android
+
+```
