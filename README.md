@@ -24,9 +24,14 @@ Movie Details              |  Add Movie
 ## Installation Notes 📝
 
 - [Install React-Native](https://facebook.github.io/react-native/docs/getting-started)
+- On the structure of the project create a .ENV file with the following structure.  Register on [TMDb](https://developers.themoviedb.org/3/getting-started/introduction) to obtain a developer key.
+```
+TMDB_API_KEY=xxxxxxxxxxxxxxx
+```
 - Navigate to the path of the project on terminal and run
 
 ```
+npm install
 npm start
 ```
 
