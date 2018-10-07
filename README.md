@@ -35,7 +35,7 @@ npm install
 npm start
 ```
 
-- On another tab in your terminal run 
+- On another tab in your terminal run the command you need depending on the platform you want to use.
 
 ``` 
  react-native run-ios
